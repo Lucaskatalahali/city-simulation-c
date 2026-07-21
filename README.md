@@ -157,7 +157,9 @@ Using the same input sequence and the same number of simulation rounds, the C im
 | This repository | C | 4 | ~3 seconds |
 | Java implementation | Java | 4 | ~15 seconds |
 
-➡️ The Java implementation can be found in the **[City Simulation in Java](https://github.com/Lucaskatalahali/city-simulation-java)** repository.
+> **Note**
+>
+> The comparison was performed using the same input sequence and simulation settings. The C version benefits from lower runtime overhead and manual memory management, resulting in noticeably faster execution.
 
 ---
 
