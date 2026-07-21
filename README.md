@@ -1,13 +1,12 @@
 # 🏙️ City Simulation in C
 
 ![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
+
 ![Course](https://img.shields.io/badge/Course-Principles_of_Programming_Languages-blue)
 
 > 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
 
-This project implements a hierarchical city population simulation in **C**, recreating object-oriented programming concepts such as inheritance, polymorphism, composition, and encapsulation using only language features like `struct`, function pointers, and dynamic memory management.
-
-Unlike the Java version, this implementation demonstrates how a complex object-oriented architecture can be reproduced in a procedural language.
+This project implements a hierarchical city population simulation in **C**, recreating object-oriented programming concepts such as inheritance, polymorphism, composition, and encapsulation using only language features like `struct`, function pointers, and dynamic memory management. This implementation demonstrates how a complex object-oriented architecture can be reproduced in a procedural language.
 
 ---
 
