@@ -163,30 +163,19 @@ Using the same input sequence and the same number of simulation rounds, the C im
 
 ---
 
-## ▶️ How to Build
+## ▶️ How to Build and Run
 
-### Requirements
-
-- GCC
-- Make
-
-### Compile
+Open a terminal in the project's root directory and run:
 
 ```bash
-make
+mingw32-make
 ```
 
-or
+The Makefile automatically:
 
-```bash
-make derle
-```
-
-### Run
-
-```bash
-make calistir
-```
+- Compiles all source files
+- Generates the executable in the `bin` folder
+- Launches the application
 
 ---
 
