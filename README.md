@@ -146,7 +146,7 @@ All new administrative units are generated dynamically during execution.
 
 ## ⚖️ Java vs C Version
 
-This project was also implemented in **C** as part of the same university assignment, preserving the same simulation rules and data structures.
+This project was also implemented in **Java** as part of the same university assignment, preserving the same simulation rules and data structures.
 
 The Java implementation of this project can be found in **[City Simulation in Java](https://github.com/Lucaskatalahali/city-simulation-java)**
 
