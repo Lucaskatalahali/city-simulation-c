@@ -191,11 +191,9 @@ The `docs` folder contains:
 ## 🎓 Academic Information
 
 - **University:** Sakarya University
-- **Faculty:** Faculty of Computer and Information Sciences
 - **Department:** Computer Engineering
 - **Course:** Principles of Programming Languages
 - **Academic Year:** 2025–2026
-- **Project Grade:** 100/100
 
 ---
 
