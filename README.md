@@ -1,11 +1,5 @@
 # 🏙️ City Simulation in C
 
-![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
-
-![Course](https://img.shields.io/badge/Course-Principles_of_Programming_Languages-blue)
-
-> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
-
 This project implements a hierarchical city population simulation in **C**, recreating object-oriented programming concepts such as inheritance, polymorphism, composition, and encapsulation using only language features like `struct`, function pointers, and dynamic memory management. This implementation demonstrates how a complex object-oriented architecture can be reproduced in a procedural language.
 
 ---
@@ -144,9 +138,9 @@ All new administrative units are generated dynamically during execution.
 
 ---
 
-## ⚖️ Java vs C Version
+## ⚡ Performance Comparison
 
-This project was also implemented in **Java** as part of the same university assignment, preserving the same simulation rules and data structures.
+This simulation was implemented in both Java and C using identical business logic to analyze execution time, runtime overhead, and memory management differences across runtimes.
 
 The Java implementation of this project can be found in **[City Simulation in Java](https://github.com/Lucaskatalahali/city-simulation-java)**
 
@@ -156,10 +150,6 @@ Using the same input sequence and the same number of simulation rounds, the C im
 |----------------|----------|-------------------|----------------------------|
 | This repository | C | 4 | ~3 seconds |
 | Java implementation | Java | 4 | ~15 seconds |
-
-> **Note**
->
-> The comparison was performed using the same input sequence and simulation settings. The C version benefits from lower runtime overhead and manual memory management, resulting in noticeably faster execution.
 
 ---
 
@@ -190,17 +180,5 @@ The `docs` folder contains:
 
 ## 🎓 Academic Information
 
-- **University:** Sakarya University
-- **Department:** Computer Engineering
-- **Course:** Principles of Programming Languages
-- **Academic Year:** 2025–2026
-
----
-
-## 📌 Notes
-
-This repository preserves the original academic project exactly as it was submitted and evaluated.
-
-The objective of the assignment was not only to implement the simulation itself, but also to demonstrate that object-oriented programming concepts can be faithfully reproduced in pure **C language** through careful software design.
-
-For more academic projects, visit my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
+- Sakarya University, Computer Engineering
+- Principles of Programming Languages, 2025–2026
